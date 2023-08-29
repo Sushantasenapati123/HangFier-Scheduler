@@ -1,0 +1,15 @@
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\bin\Debug\net6.0\Hangfier.Irepo.deps.json
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\bin\Debug\net6.0\Hangfier.Irepo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\bin\Debug\net6.0\Hangfier.Irepo.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\bin\Debug\net6.0\Hangfier.Domain.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\bin\Debug\net6.0\Hangfier.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\refint\Hangfier.Irepo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\Hangfier.Irepo.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Irepo\obj\Debug\net6.0\ref\Hangfier.Irepo.dll

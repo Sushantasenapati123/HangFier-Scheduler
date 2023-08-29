@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4MRqJCBoC9asfld+itrF42E7wL+C6K1cA8ZyE0Hd6lznEXjQ006sdRXv56HtlcfSj6DQYu9gMuTwbO7sXbJrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sushanta.senapati\\Desktop\\Hangfier\\HangFier-Scheduler\\Hangfier.Domain\\Hangfier.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

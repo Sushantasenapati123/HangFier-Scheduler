@@ -1,3 +1,4 @@
+using HangFierSS.Web.DiContaner;
 using Hangfire;
 using Hangfire.Logging;
 using Hangfire.SqlServer;
@@ -21,7 +22,7 @@ Log.Logger = new LoggerConfiguration()
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddCustomContainer(builder.Configuration);//
 // Configuration for Hangfire
 string hangfireConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 

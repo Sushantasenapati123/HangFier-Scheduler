@@ -17,4 +17,10 @@
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hangfier.Domain\Hangfier.Domain.csproj" />
+    <ProjectReference Include="..\Hangfier.Irepo\Hangfier.Irepo.csproj" />
+    <ProjectReference Include="..\Hangfier.Repo\Hangfier.Repo.csproj" />
+  </ItemGroup>
+
 </Project>

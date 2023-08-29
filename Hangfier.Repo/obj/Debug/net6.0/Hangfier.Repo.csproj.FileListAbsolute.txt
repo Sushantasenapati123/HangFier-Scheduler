@@ -1,0 +1,17 @@
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Repo.deps.json
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Repo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Repo.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Domain.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Irepo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\bin\Debug\net6.0\Hangfier.Irepo.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\refint\Hangfier.Repo.dll
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\Hangfier.Repo.pdb
+C:\Users\sushanta.senapati\Desktop\Hangfier\HangFier-Scheduler\Hangfier.Repo\obj\Debug\net6.0\ref\Hangfier.Repo.dll
