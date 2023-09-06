@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WZ6CDGW1qrimNklLMbgJft/qonZzKYOLpqUi227RCLs=",
+  "Hash": "rYCHuZej1qVwm221lqTYx2RnflnNpv9pOjypzvszDEQ=",
   "Source": "HangFierSS",
   "BasePath": "_content/HangFierSS",
   "Mode": "Default",
@@ -1086,6 +1086,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logs\\HangFier_20230829.txt"
+    },
+    {
+      "Identity": "C:\\Users\\sushanta.senapati\\Desktop\\Hangfier\\HangFier-Scheduler\\HangFierSS\\wwwroot\\logs\\HangFier_20230831.txt",
+      "SourceId": "HangFierSS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sushanta.senapati\\Desktop\\Hangfier\\HangFier-Scheduler\\HangFierSS\\wwwroot\\",
+      "BasePath": "_content/HangFierSS",
+      "RelativePath": "logs/HangFier_20230831.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\HangFier_20230831.txt"
+    },
+    {
+      "Identity": "C:\\Users\\sushanta.senapati\\Desktop\\Hangfier\\HangFier-Scheduler\\HangFierSS\\wwwroot\\logs\\HangFier_20230906.txt",
+      "SourceId": "HangFierSS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sushanta.senapati\\Desktop\\Hangfier\\HangFier-Scheduler\\HangFierSS\\wwwroot\\",
+      "BasePath": "_content/HangFierSS",
+      "RelativePath": "logs/HangFier_20230906.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\HangFier_20230906.txt"
     }
   ]
 }
